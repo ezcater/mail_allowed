@@ -1,3 +1,8 @@
+# Deprecated
+
+This project is considered deprecated and is no longer receiving updates. Please use the
+[mail_allowlist](https://github.com/brightin/mail_allowlist) gem directly.
+
 # MailAllowed
 
 This gem is a renamed fork of an [existing gem](https://github.com/brightin/mail_whitelist).
